@@ -1,0 +1,234 @@
+/* CSS Document */
+
+
+h1{
+			
+	
+		width:600px;
+	    
+		text-align:center;
+		margin: 15px auto;
+		paddin: 15px;
+		border: 5px solid black;
+		border-radius: 25px;
+		box-shadow:#E67E22 5px 5px 10px;
+		font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+		font-style: italic;
+		font-size:38px;
+		color:maroon;		
+	
+
+}
+
+#img_1{
+
+	
+	width: 150px;
+	height: 90px;
+	border-radius: 5px;
+	
+	border:double red;
+	
+
+
+}
+
+#img_3{
+	
+	height: 100px;
+	width: 55%;
+	margin:auto;
+	border-radius: 5px;
+	border:double red;
+	margin-left: 310px;
+	margin-right: 20px;
+	align:center;
+	
+}
+
+
+body.sec_register{
+	/*background-image: url("https://i1.wp.com/movara.com/wp-content/uploads/2017/05/fruits-vegetables_medium.jpg"); background-size :100% 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: auto;
+	height: 100px;*/
+
+	background-image: url("");
+	
+	
+}
+
+#session{
+	
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	
+	font-size: 18px;
+	font-style: oblique;
+	color: maroon;
+	
+}
+	
+
+ul{
+	
+		
+	border:double red;
+	text-align:center;
+	width:auto;
+	margin:auto;
+	
+	border-radius: 25px;
+	
+		background-color: antiquewhite;
+	
+	
+	}
+
+
+li{
+	color:maroon;	
+	display: inline-block;
+	padding: 0px 75px;
+	
+	font:30px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	font-style: italic;
+	
+
+
+}
+
+body{
+	/*background-image: url("https://i1.wp.com/movara.com/wp-content/uploads/2017/05/fruits-vegetables_medium.jpg"); background-size :100% 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: auto;
+	height: 100px;*/
+
+	background-image: url("Photo/wallpaper_2.jpg");
+	
+	
+	
+}
+
+#feedb{
+	
+	height: 550px;
+	
+	margin-top: 30px;
+	/*background-image: url("Photo/sierra.jpg"); */
+	background-size :100% 100%;
+	width: auto;
+	background-repeat: no-repeat;
+}
+
+table{
+			
+			width: 35%;
+			
+			
+			border-color:black;
+			margin:auto;
+			border-radius: 5px;
+			border:3px #000099 dotted;
+			padding:0 5px;
+			text-align:center;
+	
+	
+		}
+		
+		.left{
+			text-align: right;
+			
+		}
+		
+		.right{
+			text-align: left;
+			
+	
+		}
+
+p{
+	
+	text-align: center;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-style: italic;
+	font-size: 25px;
+	color: black;
+	font-weight: bold;
+}
+
+aside{
+	margin-top: 10px;
+	padding-top: 20px;
+	background-color:#F93;
+	height: 630px;
+	float:left;
+	width:130px;
+	animation:alternate;
+	font-size: 22px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-style: italic;
+	text-align:center;
+	border-radius: 10px;
+	border:3px solid black;
+	color:aliceblue;
+	
+	
+}
+
+#aside_2{
+	margin-top: 10px;
+	padding-top: 20px;
+	background-color:#F93;
+	height: 630px;
+	float:right;
+	width:130px;
+	animation:alternate;
+	font-size: 22px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-style: italic;
+	text-align:center;
+	color:aliceblue;
+	
+	
+}
+
+#labl{
+	
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 25px;
+	font-style: italic;
+	color:black;
+	font-weight: bold;
+}
+
+input[type=submit]{
+	padding: 10px;
+	text-align: center;
+	font-size: 22px;
+	background: linear-gradient(black 80%, grey 97%);
+	border:3px solid red;
+	color: #fff;
+	font-weight: 700;
+	cursor:pointer;
+	width:30%;
+	border-radius: 5px;
+	
+}
+
+
+#textboxclass {
+height: 200px;
+width: 80px;
+}
+
+
+footer{
+	border-radius: 5px;
+	background-color:antiquewhite;
+	text-align: center;
+	font-size: 18px;
+	color:black;
+	border:3px solid black;
+}

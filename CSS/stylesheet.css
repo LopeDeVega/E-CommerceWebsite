@@ -1,0 +1,85 @@
+
+
+
+
+table.table_register{
+			
+			width: 330px;
+			margin:auto;
+			
+			border:2px solid red;
+			padding:5px;
+			font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+			font-size: 20px;
+	
+			text-align: center;
+			font-weight: bold;
+			color:aliceblue;
+								
+			}
+		
+
+
+h1{
+			
+	
+		width:600px;
+	    
+		text-align:center;
+		margin: 15px auto;
+		paddin: 15px;
+		border: 5px solid black;
+		border-radius: 25px;
+		box-shadow:#E67E22 5px 5px 10px;
+		font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+		font-style: italic;
+		font-size:38px;
+		color:maroon;		
+	
+
+}
+
+body.sec_register{
+	/*background-image: url("https://i1.wp.com/movara.com/wp-content/uploads/2017/05/fruits-vegetables_medium.jpg"); background-size :100% 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: auto;
+	height: 100px;*/
+
+	background-image: url("");
+	
+	
+}
+
+
+	
+
+ul{
+	
+	background-color:orange;
+	border:double #000000;
+	text-align:center;
+	width:auto;
+	margin:auto;
+	border-radius: 25px;
+	
+		
+	
+	}
+
+
+li{
+		
+	display: inline-block;
+	padding: 0px 75px;
+	font-style:italic;
+	font:20px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	
+
+
+}
+
+#textboxclass {
+height: 200px;
+width: 80px;
+}

@@ -1,0 +1,205 @@
+
+/* CSS Document */
+
+
+	
+h1{
+			
+	
+		width:600px;
+	    
+		text-align:center;
+		margin: 15px auto;
+		paddin: 15px;
+		border: 5px solid black;
+		border-radius: 25px;
+		box-shadow:#E67E22 5px 5px 10px;
+		font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+		font-style: italic;
+		font-size:38px;
+		color:maroon;	
+			
+	
+
+}
+
+#img_1{
+
+	
+	width: 150px;
+	height: 90px;
+	border-radius: 5px;
+	
+	border:double red;
+	
+
+
+}
+#img_2{
+	
+	margin:auto;
+	border-radius: 5px;
+	border:double red;
+	margin-left: 20px;
+	margin-right: 20px;
+	
+}
+
+#img_3{
+	
+	width: 40%;
+	margin:auto;
+	border-radius: 5px;
+	border:double red;
+	margin-left: 515px;
+	margin-right: 20px;
+	align:center;
+	
+}
+
+table{
+			
+			width: 35%;
+			
+			border: 3px solid;
+			border-color:black;
+			margin:auto;
+			border-radius: 5px;
+		}
+		
+		.left{
+			text-align: right;
+			
+		}
+		
+		.right{
+			text-align: left;
+			
+	
+		}
+		
+td{
+			
+			text-align: center;
+			padding: 10px;
+			
+}
+
+p{
+	
+	text-align: center;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-style: italic;
+	font-size: 25px;
+	color: black;
+	font-weight: bold;
+}
+
+body{
+	/*background-image: url("https://i1.wp.com/movara.com/wp-content/uploads/2017/05/fruits-vegetables_medium.jpg"); background-size :100% 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: auto;
+	height: 100px;*/
+
+	background-image: url("Photo/wallpaper_2.jpg");
+	
+	
+	
+}
+#labl{
+	
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 35px;
+	font-style: italic;
+	color:darkblue;
+	font-weight: bold;
+}
+
+section{
+	
+	
+	height: 300px;
+}
+
+#sec1{
+	
+	height: 150px;
+}
+
+#sec_2{
+	
+	height: 20px;
+}
+
+
+
+input[type=submit]{
+	padding: 10px;
+	text-align: center;
+	font-size: 22px;
+	background: linear-gradient(black 80%, grey 97%);
+	border:3px solid red;
+	color: #fff;
+	font-weight: 700;
+	cursor:pointer;
+	width:30%;
+	border-radius: 5px;
+	
+}
+
+input[type=button]{
+	padding: 10px;
+	text-align: center;
+	font-size: 22px;
+	background: linear-gradient(black 80%, grey 95%);
+	border:3px solid red;
+	color: #fff;
+	font-weight: 700;
+	cursor:pointer;
+	width:40%;
+	border-radius: 5px;
+	
+}
+aside{
+	
+	background-color:#F93;
+	height: 615px;
+	float:left;
+	width:120px;
+	animation:alternate;
+	font-size: 22px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-style: italic;
+	text-align:center;
+	border-radius: 10px;
+	border:3px solid black;
+	
+	
+	
+}
+
+#aside_2{
+	
+	background-color:#F93;
+	height: 615px;
+	float:right;
+	width:130px;
+	animation:alternate;
+	font-size: 22px;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	font-style: italic;
+	text-align:center;
+	color:aliceblue;
+	
+	
+}
+
+footer{
+	border-radius: 5px;
+	background-color:antiquewhite;
+	text-align: center;
+	font-size: 18px;
+	color:black;
+	border:3px solid black;
+}

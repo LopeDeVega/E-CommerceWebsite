@@ -1,0 +1,150 @@
+/* CSS Document */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#session{
+	
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace";
+	
+	font-size: 18px;
+	font-style: oblique;
+	color: maroon;
+	
+}
+
+
+
+ul{
+	
+	background-color:orange;
+	border:double #000000;
+	text-align:center;
+	width:auto;
+	margin:auto;
+	border-radius: 25px;
+	
+		
+	
+	}
+
+
+li{
+		
+	display: inline-block;
+	padding: 0px 75px;
+	font-style:italic;
+	font:20px "Trebuchet MS", Arial, Helvetica, sans-serif;
+	
+}
+
+h1{
+			
+	
+		width:600px;
+	    
+		text-align:center;
+		margin: 15px auto;
+		paddin: 15px;
+		border: 5px solid black;
+		border-radius: 25px;
+		box-shadow:#E67E22 5px 5px 10px;
+		font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+		font-style: italic;
+		font-size:38px;
+		color:maroon;		
+	
+
+}
+
+body{
+	/*background-image: url("https://i1.wp.com/movara.com/wp-content/uploads/2017/05/fruits-vegetables_medium.jpg"); background-size :100% 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	width: auto;
+	height: 100px;*/
+
+	background-image: url("Photo/wallpaper_2.jpg");
+	
+	
+}
+	
+	
+button [type=button]{
+	
+	height: 10px;
+	padding: 10px;
+	text-align: center;
+	font-size: 22px;
+	background: linear-gradient(black 80%, grey 97%);
+	border:3px solid red;
+	color: #fff;
+	font-weight: 700;
+	cursor:pointer;
+	width:10px;
+	border-radius: 5px;
+	
+	
+}
+
+input[type=submit]{
+	padding: 10px;
+	text-align: center;
+	font-size: 22px;
+	background: linear-gradient(black 80%, grey 97%);
+	border:3px solid red;
+	color: #fff;
+	font-weight: 700;
+	cursor:pointer;
+	width:150px;
+	border-radius: 5px;
+	
+}
+
+input[type=button]{
+	padding: 10px;
+	text-align: center;
+	font-size: 22px;
+	background: linear-gradient(black 80%, grey 95%);
+	border:3px solid red;
+	color: #fff;
+	font-weight: 700;
+	cursor:pointer;
+	width:150px;
+	border-radius: 5px;
+	
+}	
+
+#textboxclass {
+height: 200px;
+width: 80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+footer{
+	border-radius: 5px;
+	background-color:antiquewhite;
+	text-align: center;
+	font-size: 18px;
+	color:black;
+	border:3px solid black;
+}
